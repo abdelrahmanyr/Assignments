@@ -1,5 +1,5 @@
 # Assignments
-Some assignments that was done as an application on Structured Programming course
+Some assignments that were done as an application on Structured Programming course
 
 ## Number Scrabble Game
 _It's a game designed by *C++* for two players_
