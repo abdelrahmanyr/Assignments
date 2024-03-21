@@ -1,10 +1,10 @@
 /*
-- File:     CS112_A1_T5_20230220.py
+- File:     Number Scrabble Game.cpp
 - Program:  Number Scrabble (Game 2) ->     The game displays a list of available numbers for 2 players 
 -                                           and each time a player chooses a number it's added to his account
 -                                           the first player to get 3 numbers with sum of 15 wins
 -                                           if all numbers were picked but no one satisfied the condition, it's a draw
-- Author:   Abdelrahman Yasser Ali  |   20230220    |   Section not registered yet
+- Author:   Abdelrahman Yasser
 - Version:  1.0
 - Date:     3/3/2024
 */
