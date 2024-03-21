@@ -354,7 +354,7 @@ void vigenere() {
         if (choice == "3")
             break;
 
-        cout << "- Enter a text to encrypt\n--> ";
+        cout << "- Enter your text\n--> ";
         string text, enc, dec;
         cin.ignore(1, '\n');
         getline(cin, text);
@@ -442,7 +442,7 @@ void atbash() {
         if (choice == "3")
             break;
 
-        cout << "- Enter a text to encrypt\n--> ";
+        cout << "- Enter your text\n--> ";
         string text, enc, dec;
         cin.ignore(1, '\n');
         getline(cin, text);
